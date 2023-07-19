@@ -1,0 +1,4 @@
+What is a table?
+What is a list?
+What is a sysid?
+
