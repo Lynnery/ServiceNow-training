@@ -1,0 +1,7 @@
+### Questions
+- What are update sets and what feature in git in similar to an update set?
+- What are you going to do if you committed an update set to production and it does not work as expected?
+- How do you preview an update set that you pushed from development/test to production(Where is it and how do you load it?)
+
+### Exercises
+- Create a new update set, make some changes in the environment, commit the update set and try to roll it back.
