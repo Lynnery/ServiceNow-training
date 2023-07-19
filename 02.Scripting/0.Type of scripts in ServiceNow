@@ -1,0 +1,38 @@
+
+### Tasks ###
+Read about
+- Catalog Client Scripts and Client Scripts
+- Catalog UI Policies and UI Policies
+- UI Actions
+- Business Rules
+- Script Includes
+- Fix Scripts
+- Script Actions
+- And more...
+
+### Questions ###
+- You have implemented and new field under the sys_user table called "description"
+Now you want to give a default value for that everytime a new record is inserted to the table, which type of script are you going to use?
+
+- Give examples of UI actions from the incident table 'list view'.
+
+- What is the difference between a client script and a ui policy?
+- Think of an example in which you could use both client script and ui policy to implement the requested feature(hint: think about onChange for client script).
+
+- Imagine the next scenario: You made some cahnge to the incident entity, you accidently removed the impact variable from the form and now people can submit tickets without selecting impact.
+some tickets have been submitted but you managed to back the field so additional tickets won't be opneed without the impact field, but the biggest problem now is that now you just need to add back the variable 
+to the already-opened tickets with the value of "low", what script would you use to do that?
+remember, these incidents don't contain the impact variable so you need to somehow display the variable on the ticket's backoffice form.
+
+- What is a data policy and when would you use it versus when would you use a UI Policy?
+
+- Imagine creating a new table on the dev environment, your PM requested that some of the fields will have default values:
+Table called 'User':
+Fields: Name:empty, Phone:empty, Country: Default value:'Israel'
+
+Which type of sript is the correct way to set this default value on this table for all of the environments? )(dev,test,prod).
+Hint:
+Don't use background script - understand why not
+
+What is ajax, on which side it sits (client or server).
+Learn about more types of objects such as UI Page, UI Properties, Service Catalog UI Policies.
