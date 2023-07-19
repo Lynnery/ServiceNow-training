@@ -1,0 +1,4 @@
+### Exercises
+- Read about related lists
+- Add some related lists to the incident table and view them in the form.
+- Try to create a new related list for the incident table.
