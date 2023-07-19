@@ -1,4 +1,10 @@
-What is a table?
-What is a list?
-What is a sysid?
+- What is a table and what is a list
+- How do you search for tables which don't appear in the application navigator(not using the URL)?
+- What does the term Sys ID mean?
+- How do you delete a record from a list and how do you delete multiple records from a list?
+- Show 3 possible ways to filter records in a list(outcome is the same, the actions you do are different).
+- Which tables inherit from task
 
+### Exercises:
+- Filtering: Get all the incidents which are active, were Created By admin whose Caller's name contains "Lu".
+- Filtering: Get all the incidents whose Priority is 5 - Planning/3 - Moderate/1 - Critical, Their state is closed, They made their SLA
