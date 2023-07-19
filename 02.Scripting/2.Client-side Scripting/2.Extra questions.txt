@@ -1,0 +1,17 @@
+What is a ui type (in client scripting)
+what does the application,global field represent
+
+Explain the meaning of every variable in the function onChange(control, oldValue, newValue, isLoading, isTemplate)
+
+What is onCellEdit?
+
+What is Isolate script
+How do you create client scripts which apply to a catalog item, what is an RITM, what is REQ.
+
+What is related link.
+
+Why would you need to convert a data policy to a UI Policy?
+
+What are workspace client scripts?
+
+What is g_form, getControl, Showfieldmessage,addDecoration
