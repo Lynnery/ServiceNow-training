@@ -1,0 +1,5 @@
+What is Application and what is module and how are they related?
+
+What are the 3 main components in ServiceNow user interface?
+
+What is Content Frame (give some type examples)?
