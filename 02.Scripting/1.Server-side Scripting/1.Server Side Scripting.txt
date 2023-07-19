@@ -1,0 +1,8 @@
+1. Create a business rule whihc creates an incident everytime a group is created in ServiceNow
+the details of th egroup are going to Be
+- The manager is the person who opened the most incidents until today.
+- The name of the group is going to be the title of the incident.
+- The parent is going to be the last group created.
+
+2.
+Create a script for an RITM, which finds the mail of the requested for user and sets in a new hidden variable which appears only on the supporter's side (the variable will be called requested_for_email).
