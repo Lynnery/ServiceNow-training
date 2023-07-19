@@ -1,3 +1,0 @@
-What is an application?
-What are the module link types?
-Which link types are there in the navigator? what do they do.
