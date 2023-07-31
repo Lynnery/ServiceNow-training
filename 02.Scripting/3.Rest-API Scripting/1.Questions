@@ -2,3 +2,5 @@
 - What is the difference between Outbound rest and Inbound rest
 - What is a scripted rest API
 - What are CORS Rules
+- How do you request only specific fields in a table using api call? How do you display the value of a reference field and what decides which field is the displayed field?
+- What is REST API Explorer, how do you copy queries easily to it? 
