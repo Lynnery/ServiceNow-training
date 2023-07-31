@@ -1,1 +1,4 @@
-
+Try searching for "CatalogItemVersioningService" under script includes,
+Use Rest API explorer and execute checkout catalog item (activate script tracer first), do you see "CatalogItemVersioningService" being used in one of the business rules?
+If you do see it, then why couldn't you find it in script includes?
+Write a script (background) which prints the content of this script include (although it can't be seen).
