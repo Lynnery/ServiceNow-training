@@ -1,0 +1,10 @@
+SLA Task:
+Read about Data lookup definitions
+1. Create a definition for priority critical(delete the old definition) - in which high urgency and low/medium/high impact = critical priority (any impact) 
+2.Write an SLA definition, Server Side scripts for tickets that are opened on a Critical priority - 5 minutes for supporter to respond.
+- If the supporter from the assignment group comments, he needs to be automatically assigned to the incident and the State needs to be moved to in progress
+- In progress is the stop condition for the SLA definition
+- Reset condition which makes the SLA active again when the state changes back to in progress from on Hold
+
+3. What is the difference between SLA and OLA? 
+Navigate to the SLA definition called "Network group resolution", what does the workflow in it do?
