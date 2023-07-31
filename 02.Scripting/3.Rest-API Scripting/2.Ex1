@@ -1,0 +1,4 @@
+Create a scripted rest API which returns an array of JSONs.
+each JSON contains a label, name and children [] - the JSON represents a knowledge category.
+The idea is to present an hierarchical view of the knowledge categories in the system (and later use it for frontend display).
+Remember that each knowledge category may have an infinite number of children nodes (and so do their children).
