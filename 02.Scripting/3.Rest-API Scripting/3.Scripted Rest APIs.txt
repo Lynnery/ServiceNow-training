@@ -1,0 +1,1 @@
+Create a simple react app which displays 10 incidents from your SNOW instance, what modifications (in your instance) did it take in order to work?
