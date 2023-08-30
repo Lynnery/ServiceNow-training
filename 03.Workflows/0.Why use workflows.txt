@@ -1,0 +1,3 @@
+Read about the differences between workflow editor and flow designer
+Read about events, workflow stage sets, workflow context, nudging a workflow, sc_tasks in workflows
+Read about workflow validation and about using sub-workflows /flows.
