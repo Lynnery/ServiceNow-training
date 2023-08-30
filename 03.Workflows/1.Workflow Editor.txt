@@ -1,0 +1,5 @@
+Ex1:
+Write a flow (flow designer/workflow editor) that runs when the catalog item has been ordered (Iphone 6), the workflow will make number of groups in the groups table according to the numbers gigabytes that the customer wants.
+Every group name will start with the color that has been selected and end with its serial number. If the group name contains more than 4 chars then make a new incident to hardware staff and the name of the guy
+that ordered the phone.
+If the user selected the color to be black then the memory automatically changes to 64.
