@@ -1,7 +1,7 @@
 - Read about UI Macro, try to create one
 - How do you invoke a UI Macro?
 - What is the relevance between a UI Macro and a variable.
-- What arw atrributes in a variable?
+- What are atrributes in a variable?
 - What is reference contribution?
 - What are field decorations.
 - Can UI Macros be used in Agent workspace? if not then why not.

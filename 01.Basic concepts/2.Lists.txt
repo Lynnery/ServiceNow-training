@@ -2,7 +2,7 @@
 - How do you search for tables which don't appear in the application navigator(not using the URL)?
 - What does the term Sys ID mean?
 - How do you delete a record from a list and how do you delete multiple records from a list?
-- Show 3 possible ways to filter records in a list(outcome is the same, the actions you do are different).
+- Show 4 possible ways to filter records in a list(outcome is the same, the actions you do are different).
 - Which tables inherit from task
 
 ### Exercises:

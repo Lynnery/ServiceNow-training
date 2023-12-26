@@ -1,0 +1,4 @@
+1. Explain what is ServiceNow
+2. what is its primary purpose within an organization's IT infrastructure?
+3. Explain why do we need a ServiceNow inside our branch
+4. What are some common use cases or industries where ServiceNow is widely adopted, and what benefits does it bring to these sectors?

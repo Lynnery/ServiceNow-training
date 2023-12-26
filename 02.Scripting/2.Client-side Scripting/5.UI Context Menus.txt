@@ -1,0 +1,9 @@
+- Read about UI Context
+- give 2 examples of UI Context
+- How to Create a new UI Context
+
+Exercises:
+Create Name a new UI Context, the UI Context, for instance, 'High Priority Incident for Network Operations'.
+Define the conditions for the UI Context. This may include:
+Condition 1: Priority = 1 (High priority incidents).
+Condition 2: Assignment Group = Network Operations.

@@ -1,0 +1,8 @@
+- Read about security Rules
+- Read about Acl's
+- how to create a new Acl
+
+Exercise
+Create a New ACL, on the "incident" table, that apply to all the records on that table and restrict the
+operations read and write to the short_description field. 
+the only users that allowed to read are the one's with itil rule.

@@ -11,7 +11,7 @@ Read about
 - And more...
 
 ### Questions ###
-- You have implemented and new field under the sys_user table called "description"
+- You have implemented a new field under the sys_user table called "description"
 Now you want to give a default value for that everytime a new record is inserted to the table, which type of script are you going to use?
 
 - Give examples of UI actions from the incident table 'list view'.
