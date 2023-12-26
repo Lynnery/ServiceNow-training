@@ -1,0 +1,26 @@
+pass over shoval training
+
+make sagiv admin create a personal developer instance
+
+what is itsm 
+plugins
+
+checkbox and fields inside forms
+
+difference between dictionary and field, attributes inside dicrionary under basics
+
+ui builder https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_uibuilder_utah_ui_builder/app_store_learnv2_uibuilder_utah_create_pages_in_ui_builder/UCP_WhatIsAnExperience_Utah
+
+business rule query add questions
+
+background script Exercise vs fix script
+
+script include Exercise
+
+schedule jobs 
+
+flow designer tasks 
+
+update job & delete jobs
+
+recursive get knowledge 
