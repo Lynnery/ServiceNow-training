@@ -1,6 +1,0 @@
-### Questions
-- How do you impersonate a user in ServiceNow?
-- What is the use of impersonation? How can it help you with customers.
-- What are the consequences of impersonating a user? What actions you may do that can cause harm to the production environment?
-
-Additional questions about impersonation will be given by the instructor.

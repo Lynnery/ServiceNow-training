@@ -1,0 +1,8 @@
+- What is a form?
+- How do you enter a "form"?
+- Read about sections and views in forms.
+
+### Exercises
+- Create a view for the incident table, at the first section show the incident's number,
+state, caller, and when opened.
+- At the second section show the description of the incident.

@@ -1,5 +1,14 @@
 Ex1:
-Write a flow (flow designer/workflow editor) that runs when the catalog item has been ordered (Iphone 6), the workflow will make number of groups in the groups table according to the numbers gigabytes that the customer wants.
-Every group name will start with the color that has been selected and end with its serial number. If the group name contains more than 4 chars then make a new incident to hardware staff and the name of the guy
+Write a flow in workflow editor that runs when the catalog item has been ordered (Iphone 6),
+the workflow will make number of groups in the groups table according to the numbers gigabytes that the customer wants.
+Every group name will start with the color that has been selected and end with its serial number.
+If the group name contains more than 4 chars then make a new incident to hardware staff and the name of the guy
 that ordered the phone.
 If the user selected the color to be black then the memory automatically changes to 64.
+
+Ex2:
+Write a flow in Flow Designer that triggers upon ordering the 'Adobe Acrobat Pro' catalog item.
+The workflow requires approval from Yarin Elias (if the user doesn't exist, create the user).
+If the request is approved by Yarin, create a script to run precisely 10 minutes after the approval and
+log 'Hello World!'. Otherwise, take no action. Additionally,
+remember to transition the request to 'Close Complete' or 'Close Incomplete' accordingly

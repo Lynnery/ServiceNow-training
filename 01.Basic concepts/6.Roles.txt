@@ -1,0 +1,10 @@
+### Questions ###
+- What is a role and what is the use of a role?
+- What is itil?
+- What is admin?
+- What is security admin and how do you access it?
+- How are roles and groups related?
+
+### Exercises ###
+- Edit the given ACL:
+What role did it require you?

@@ -1,0 +1,5 @@
+Read about System properties in servicenow
+
+1. What is the purpose of system properties in ServiceNow, and how are they different from regular application properties?
+2. How can you access and modify system properties in ServiceNow?
+3. What precautions should be taken when modifying critical system properties in ServiceNow?

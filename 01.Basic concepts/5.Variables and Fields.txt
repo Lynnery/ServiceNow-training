@@ -1,0 +1,26 @@
+- What is a variable?
+- What is a field of a table?
+- What is a variable set?
+- Explain the difference between a variable and a variable set?
+- Read about the variable's fields(type,order,question,name) and make sure you know the difference between Question and Name.
+- Read about using regex in variables.
+- What is the usage of multi row variable set.
+- What is a map to field, what is the use of it.
+- What is dictionary?
+- What is the difference between dictionary and field?
+- What is the purpose of the ServiceNow dictionary, and how does it relate to tables and fields within the platform?
+- Explain the concept of "extended tables" and how they are utilized in the ServiceNow dictionary.
+- How do dictionary attribute impact field behavior in ServiceNow?
+- What are the various data types available in the ServiceNow dictionary, and how do they influence field behavior?
+
+What is a record producer
+### Exercises
+- Create a boolean variable with the default value of true, add an always expanding annotation which says "this annotation is always open"
+- Create a variable set and include it in several items.
+- Create a simple map to field variable.
+
+# Bonus
+- Create a custom 'Project Tasks' table in ServiceNow by extending the standard 'Task' table.
+Use the dictionary to add essential fields like task descriptions, task priority, and a project reference field.
+Configure field attributes, set default values.
+Test the functionality by creating sample records and modifying field attributes to understand their impact.

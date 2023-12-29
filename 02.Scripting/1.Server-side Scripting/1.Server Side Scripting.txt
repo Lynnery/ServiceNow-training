@@ -1,8 +1,19 @@
-1. Create a business rule whihc creates an incident everytime a group is created in ServiceNow
-the details of th egroup are going to Be
+1. 
+Create a business rule which creates a group everytime an incident is created in ServiceNow
+the details of the group are going to Be
 - The manager is the person who opened the most incidents until today.
 - The name of the group is going to be the title of the incident.
 - The parent is going to be the last group created.
 
 2.
-Create a script for an RITM, which finds the mail of the requested for user and sets in a new hidden variable which appears only on the supporter's side (the variable will be called requested_for_email).
+Write a script that retrieves all published knowledge articles recursively.
+
+3. 
+Create a script that restricts access to the incident table based on the current user roles.
+The script will allow access to critical incidents only for users who have the 'ITIL' role.
+Explain about the script you use in order to make that exercise.
+
+4.
+Create a background script that makes a call to a method inside a script include.
+The method within the script include needs to change the title of all incidents whose
+numbers contain the digits '1' or '3' to 'My incident number contains the digits '1' or '3'.

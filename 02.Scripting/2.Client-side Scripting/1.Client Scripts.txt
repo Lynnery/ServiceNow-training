@@ -1,7 +1,7 @@
 - Go to your PDI -> Service Portal Home -> Request Something -> Can we Help you? -> Create incident
 1.
 - Create a new variable on the form called "Company Name" of type single line text
-- The team leader said he wants to see this variable on the form only ifr the urgency is marked as 1 - high, so only the most urgent incidents will provide a user's company name.
+- The team leader said he wants to see this variable on the form only if the urgency is marked as 1 - high, so only the most urgent incidents will provide a user's company name.
 
 2.
 - The team leader says that whenever the urgency variable changes, he wants the "Please describe your issue below" variable's value cleared.
