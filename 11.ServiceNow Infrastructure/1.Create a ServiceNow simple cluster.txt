@@ -1,0 +1,9 @@
+As part of your journey of learning ServiceNow, it is required you learn how to create
+and operate a simple ServiceNow cluster which consists of an app and DB (no maxscale/galera/nginx
+or any other extra dependencies).
+
+- Open an account on the the ServiceNow support portal using your mail
+- Make sure you are added to our group so you can read the self hosted knowledges
+- Read the Deployment Guide under self-hosted knowledges
+- Using VMs provided to you by Azure, create the ServiceNow application and database according to the guide
+- Do the same process but use Ansible this time to create / install everything

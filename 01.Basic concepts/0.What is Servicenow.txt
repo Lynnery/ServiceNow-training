@@ -1,5 +1,5 @@
 1. Explain what is ServiceNow
 2. What are some common use cases or industries where ServiceNow is widely adopted,
 and what benefits does it bring to these sectors?
-3. Explain why do we need a ServiceNow inside our branch
+3. Explain why do we need a ServiceNow inside our branch.
 
