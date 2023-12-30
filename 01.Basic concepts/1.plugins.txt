@@ -1,9 +1,9 @@
 read about plugins in servicenow
 
-1. what are plugins?
-2. how can we add plugins to our instance
-3. how plugins can be installed?
-4. How do plugins work?
-5. how can you see which plugins are installed inside your instance
-6. give example to one plugin
-7. what is itsm?
+1. What are plugins?
+2. How can we add plugins to our instance
+3. How plugins can be installed?
+4. How do plugins work (what is done behind the scenes when they are installed)?
+5. How can you see which plugins are installed inside your instance?
+6. Give an example of a plugin which we use in the CTS.
+7. what is ITSM?

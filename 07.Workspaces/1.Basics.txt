@@ -1,0 +1,3 @@
+- Read about Workspaces in ServiceNow
+- What tool is used for developing the Workspaces in ServiceNow?
+- What is the key differences between the Agent Workspace and new Workspaces like CSM Workspace and Service Operation's Workspace (hint: refer to the workspace's engine)?
