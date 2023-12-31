@@ -1,0 +1,16 @@
+- Read about the Service Portal
+- Read about Pages, Widgets, Client Scripting, Server Side Scripting, HTML, Link Function and CSS
+on The Service Portal.
+Exercise:
+Create a new endpoint on the service portal which allows adding users to an inputed group just like in the CTS (without the groups' UI - just group input).
+Since this task is not easy, you'll be instructed:
+- UI is your responsibility, just make sure the user can select a group and has the option to add a user to it
+Steps:
+- Create a Service Portal Page
+- Create a widget inside this page
+- HTML should include the groups' selector and user selector
+- Server Scripting should call a script include which is responsible for adding users using sys_user_gr_member
+- Client scripting will formalize the input
+- CSS will be defined however you'd like it to be.
+Bonus:
+Read about Link function and Angular Dependencies 
