@@ -10,3 +10,6 @@ Read about List and Tables in ServiceNow
 ### Exercises:
 - Filtering: Get all the incidents which are active, were Created By admin whose Caller's name contains "Lu".
 - Filtering: Get all the incidents whose Priority is 5 - Planning/3 - Moderate/1 - Critical, Their state is closed, They made their SLA
+
+1. How can ServiceNow lists be customized to meet specific user needs?
+

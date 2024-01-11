@@ -7,3 +7,8 @@ read about plugins in servicenow
 5. How can you see which plugins are installed inside your instance?
 6. Give an example of a plugin which we use in the CTS.
 7. what is ITSM?
+
+1. How plugins be activated
+2. do plugin capture in update sets?
+3. show me example
+4. can plugins be disabled?

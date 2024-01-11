@@ -3,3 +3,7 @@
 and what benefits does it bring to these sectors?
 3. Explain why do we need a ServiceNow inside our branch.
 
+1. collaboration
+2. pros and cons
+3. how servicenow enhance IT managment
+

@@ -6,7 +6,6 @@
 - How are roles and groups related?
 
 ### Exercises ###
-- Edit the given ACL:
-What role did it require you?
+What role did it require to edit an ACL?
 
 - What role is even stronger than the one you used the in the exercise?

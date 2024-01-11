@@ -24,3 +24,7 @@ What is a record producer
 Use the dictionary to add essential fields like task descriptions, task priority, and a project reference field.
 Configure field attributes, set default values.
 Test the functionality by creating sample records and modifying field attributes to understand their impact.
+
+1. why record producer is needed
+2. explain the difference between field and dictionary
+3. explain the difference between variqble and fields
