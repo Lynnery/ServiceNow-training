@@ -12,3 +12,17 @@ read about plugins in servicenow
 2. do plugin capture in update sets?
 3. show me example
 4. can plugins be disabled?
+
+read about plugins in servicenow
+
+1. What are plugins?
+2. How can we add plugins to our instance
+3. How plugins can be installed?
+4. How do plugins work (what is done behind the scenes when they are installed)?
+5. How can you see which plugins are installed inside your instance?
+6. Give an example of a plugin which we use in the CTS.
+7. what is ITSM?
+
+1. How to activate a plugin?
+2. do plugin capture in update sets? (move to updatesets)
+4. can plugins be disabled? if so, how?

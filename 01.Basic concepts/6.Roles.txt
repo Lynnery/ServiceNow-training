@@ -9,3 +9,15 @@
 What role did it require to edit an ACL?
 
 - What role is even stronger than the one you used the in the exercise?
+
+### Questions ###
+- What is a role and what is the use of a role?
+- What is itil role?
+- What is admin role?
+- What is security admin and how do you access it?
+- How are roles and groups related?
+
+### Exercises ###
+What role did it require to edit an ACL?
+
+- What role is even stronger than the one you used the in the exercise?

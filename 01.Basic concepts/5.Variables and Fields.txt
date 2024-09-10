@@ -27,4 +27,4 @@ Test the functionality by creating sample records and modifying field attributes
 
 1. why record producer is needed
 2. explain the difference between field and dictionary
-3. explain the difference between variqble and fields
+3. explain the difference between variable and fields

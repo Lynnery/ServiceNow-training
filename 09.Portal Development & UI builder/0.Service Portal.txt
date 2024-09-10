@@ -14,3 +14,5 @@ Steps:
 - CSS will be defined however you'd like it to be.
 Bonus:
 Read about Link function and Angular Dependencies 
+
+#### We havnt done this subject ####

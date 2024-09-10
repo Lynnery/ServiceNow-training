@@ -8,3 +8,14 @@ The trainee should be able to explain all the use cases of these entities and el
 - Problem vs Outage
 Bonus:
 - What is the usecase of Interaction
+
+- After going over all the main entities in the ServiceNow CTS platform (task, incident, sc_req_item,kb_knowledge,change_request,problem,cmdb_ci_outage)
+The trainee should be able to explain all the use cases of these entities and also explain about custom fields.
+- Explain about the connection between the following while considering the usages in idfcts snow:
+- Incident vs Request (sc_request) vs Requested Item (sc_req_item)
+- Incident and Knowledge relationships (such as knowledge from incident)
+- Task vs Incident vs Request
+- Change vs Outage
+- Problem vs Outage
+Bonus:
+- What is the usecase of Interaction

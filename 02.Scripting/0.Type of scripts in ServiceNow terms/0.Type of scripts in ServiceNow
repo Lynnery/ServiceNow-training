@@ -21,7 +21,7 @@ Now you want to give a default value for that everytime a new record is inserted
 - What is the difference between a client script and a ui policy?
 - Think of an example in which you could use both client script and ui policy to implement the requested feature(hint: think about onChange for client script).
 
-- Imagine the next scenario: You made some cahnge to the incident entity, you accidently removed the impact variable from the form and now people can submit tickets without selecting impact.
+- Imagine the next scenario: You made some change to the incident entity, you accidently removed the impact variable from the form and now people can submit tickets without selecting impact.
 some tickets have been submitted but you managed to back the field so additional tickets won't be opneed without the impact field, but the biggest problem now is that now you just need to add back the variable 
 to the already-opened tickets with the value of "low", what script would you use to do that?
 remember, these incidents don't contain the impact variable so you need to somehow display the variable on the ticket's backoffice form.
