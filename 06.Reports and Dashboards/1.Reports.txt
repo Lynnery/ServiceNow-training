@@ -1,1 +1,8 @@
-Why is it empty?
+read about dashboards
+Read about reports
+Create a dashboard 
+Create a report that sums into a pie graph the amount on incidents in each state 
+What is the connection between a dashboard and a report
+What is an interactive filter 
+Create an interactive filter with the following fields : Week, Month and year, All
+How to share a dashboard and a report between groups and users 
