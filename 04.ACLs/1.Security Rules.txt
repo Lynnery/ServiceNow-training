@@ -1,8 +1,8 @@
-- Read about Acl's
-- how to create a new Acl
+- Read about ACLs
+- How to create a new ACL
 
 Exercise
-Create a New ACL, on the "incident" table, that apply to all the records on that table and restrict the
+Create a New ACL, on the "incident" table, that applies to all the records on that table and restricts the
 operations read and write to the short_description field. 
 the only users that allowed to read are the one's with itil rule.
 

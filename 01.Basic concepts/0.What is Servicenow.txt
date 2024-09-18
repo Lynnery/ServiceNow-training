@@ -1,14 +1,4 @@
-1. Explain what is ServiceNow
-2. What are some common use cases or industries where ServiceNow is widely adopted,
-and what benefits does it bring to these sectors?
-3. Explain why do we need a ServiceNow inside our branch.
-
-1. collaboration
-2. pros and cons
-3. how servicenow enhance IT managment
-
 1. Explain what ServiceNow is
 2. What are some common use cases for service now?
 3. which industries uses ServiceNow and for what reasons? what are the benefits they get?
-4. How the usage of servicenow help to enhance IT managment?
-5. For what purpose do we use ServiceNow in our unit? 
+4. For what purpose do we use ServiceNow in our unit? 

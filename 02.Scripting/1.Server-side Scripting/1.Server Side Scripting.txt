@@ -1,19 +1,36 @@
-1. 
-Create a business rule which creates a group everytime an incident is created in ServiceNow
+Read about
+
+- Business Rules
+- Script Includes
+- Fix Scripts VS Background scripts
+- Script Actions
+- schedule jobs 
+- update job & delete jobs (give an example and create one)
+
+- Imagine the next scenario: You made some change to the incident entity, you accidently removed the impact variable from the form and now people can submit tickets without selecting impact.
+some tickets have been submitted but you managed to back the field so additional tickets won't be opneed without the impact field, but the biggest problem now is that now you just need to add back the variable 
+to the already-opened tickets with the value of "low", what script would you use to do that?
+remember, these incidents don't contain the impact variable so you need to somehow display the variable on the ticket's backoffice form.
+
+- Imagine creating a new table on the dev environment, your PM requested that some of the fields will have default values:
+Table called 'User':
+Fields: Name:empty, Phone:empty, Country: Default value:'Israel'
+
+Which type of script is the correct way to set this default value on this table for all of the environments? )(dev,test,prod).
+Hint:
+Don't use background script - understand why not
+
+Tasks:
+
+1.Create a business rule which creates a group everytime an incident is created in ServiceNow
 the details of the group are going to Be
 - The manager is the person who opened the most incidents until today.
 - The name of the group is going to be the title of the incident.
 - The parent is going to be the last group created.
 
-2.
-Write a script that retrieves all published knowledge articles recursively.
-
-3. 
-Create a script that restricts access to the incident table based on the current user roles.
+2. Create a script that restricts access to the incident table based on the current user roles.
 The script will allow access to critical incidents only for users who have the 'ITIL' role.
-Explain about the script you use in order to make that exercise.
 
-4.
-Create a background script that makes a call to a method inside a script include.
+3.Create a background script that makes a call to a method inside a script include.
 The method within the script include needs to change the title of all incidents whose
 numbers contain the digits '1' or '3' to 'My incident number contains the digits '1' or '3'.

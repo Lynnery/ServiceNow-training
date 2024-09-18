@@ -1,4 +1,4 @@
-Read about List and Tables in ServiceNow
+Read about Lists and Tables in ServiceNow
 
 - What is a table and what is a list
 - How do you search for tables which don't appear in the application navigator(not using the URL)?

@@ -10,14 +10,13 @@
 - What is the difference between dictionary and field?
 - What is the purpose of the ServiceNow dictionary, and how does it relate to tables and fields within the platform?
 - Explain the concept of "extended tables" and how they are utilized in the ServiceNow dictionary.
-- How do dictionary attribute impact field behavior in ServiceNow?
 - What are the various data types available in the ServiceNow dictionary, and how do they influence field behavior?
-
-What is a record producer
-### Exercises
+- What is a record producer and why is it needed?
 - Create a boolean variable with the default value of true, add an always expanding annotation which says "this annotation is always open"
 - Create a variable set and include it in several items.
 - Create a simple map to field variable.
+- explain the difference between field and dictionary
+- explain the difference between variable and fields
 
 # Bonus
 - Create a custom 'Project Tasks' table in ServiceNow by extending the standard 'Task' table.
@@ -25,6 +24,3 @@ Use the dictionary to add essential fields like task descriptions, task priority
 Configure field attributes, set default values.
 Test the functionality by creating sample records and modifying field attributes to understand their impact.
 
-1. why record producer is needed
-2. explain the difference between field and dictionary
-3. explain the difference between variable and fields

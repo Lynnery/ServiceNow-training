@@ -1,0 +1,16 @@
+- Explain the following entities :
+    - task
+    - incident
+    - sc_req_item (RITM AKA Request Item)
+    - kb_knowledge (Knowledge Article)
+    - change_request
+    - problem
+    - cmdb_ci_outage
+The trainee should be able to explain all the use cases of these entities and elaborate on custom fields.
+- Elaborate on the connection between (Don't forget to relate to IDFCTS use cases ONLY):
+- Incident vs Request (sc_request) vs Requested Item (sc_req_item)
+- Task vs Incident vs Request
+- Change vs Outage
+- Problem vs Outage
+- Knowledge vs Knowledge Category vs Knowledge base (And what table are they populated in)
+- What is the relation between service (cmdb_ci_service) and group (sys_user_group)?
