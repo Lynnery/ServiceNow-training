@@ -1,5 +1,0 @@
-- What are update sets and what feature in git is similar to an update set?
-- What are you going to do if you have committed an update set to production and it does not work as expected?
-- How do you preview an update set that you pushed from development/test to production (Where is it and how do you load it?)
-- Are plugins captured in update sets? what is included in an update set and what is not?
-- Create a new update set, make some changes in the environment, commit the update set and try to roll it back.
