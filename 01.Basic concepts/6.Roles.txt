@@ -1,7 +1,0 @@
-- What is a role and what is the use of a role?
-- What is itil role?
-- What is admin role?
-- What is security admin and how do you access it?
-- How are roles and groups related?
-- What role did it require to edit an ACL?
-- Read about the maint role
