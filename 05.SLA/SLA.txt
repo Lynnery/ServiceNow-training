@@ -1,9 +1,0 @@
--What is SLA?
--How do we define an SLA in servicenow?
--Ask your trainer how do we enforce SLAs in idfcts.
-
-SLA Task:
-
-1. Create a definition for priority critical(delete the old definition) - in which high urgency and low/medium/high impact = critical priority (any impact) 
-2. What is the difference between SLA and OLA? 
-Navigate to the SLA definition called "Network group resolution", what does the workflow in it do?
