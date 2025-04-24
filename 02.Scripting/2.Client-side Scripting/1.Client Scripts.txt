@@ -46,6 +46,6 @@ Once you are done, check everything is working properly - this means:
 
 Exercises:
 Create Name a new UI Context, the UI Context, for instance, 'High Priority Incident for Network Operations'.
-Define the conditions for the UI Context. This may include:
+Define UI Context that filters according to the following conditions:
 Condition 1: Priority = 1 (High priority incidents).
 Condition 2: Assignment Group = Network Operations.
